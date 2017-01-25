@@ -1,0 +1,22 @@
+.menuc {
+}
+@media (min-width: 440px) {
+  .container {
+    width: 93%;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    width: 54%;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 43%;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 35%;
+  }
+}

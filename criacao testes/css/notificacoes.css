@@ -1,0 +1,9 @@
+.nots {
+	text-align: center;   
+        position: fixed;
+	top: 20px;
+	right: 20px;
+	z-index: 999;
+	width: 20%;
+	height: 50px;
+}

@@ -1,0 +1,22 @@
+.menup {
+}
+@media (min-width: 440px) {
+  .container {
+    width: 67%;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    width: 70%;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 55%;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 45%;
+  }
+}
